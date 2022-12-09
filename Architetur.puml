@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+participant Participant
+actor Actor as foo
+entity entity
+boundary boundary
+Collections Collection
+
+@enduml
